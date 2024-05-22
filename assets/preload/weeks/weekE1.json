@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "nightmare",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"bopeebo-erect",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fresh-erect",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dad-battle-erect",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
